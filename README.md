@@ -1,4 +1,4 @@
-### Olá me chamo Felipe Tarran Veronezzi
+### Felipe Tarran - Full-Stack developer
 <hr>
 <br>
 <div>
