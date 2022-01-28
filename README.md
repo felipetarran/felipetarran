@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img src="https://drive.google.com/file/d/1Wg-EjX4IEtmEmC-Z7QNw1P3Q3ErZYrIF/view?usp=sharing"></img>
 </div>
 <br><br>
 
