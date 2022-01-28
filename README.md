@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </div>
 <img src="39859912-3cea-44e1-8038-f0861d94a86d.png" width="100px"></img>
-<br><br>
 
 [![Tarran GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetarran&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
