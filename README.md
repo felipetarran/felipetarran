@@ -1,5 +1,4 @@
 ### Felipe Tarran - DevOps
-<iframe src="https://gifer.com/embed/FM9Y" width=480 height=270.400 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
 <hr>
 <br>
 <div>
