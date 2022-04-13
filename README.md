@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"></img>
 </div>
 
-[![Tarran GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetarran&show_icons=true&theme=dark&show)
+[![Tarran GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetarran&show_icons=true&theme=chartreuse-dark)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarran&layout=compact&langs_count=16&theme=dark&show"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarran&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 
 ![Snake animation](https://github.com/felipetarran/felipetarran/blob/output/github-contribution-grid-snake.svg)
