@@ -36,6 +36,6 @@
 [![Tarran GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetarran&show_icons=true&theme=dark&show)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarran&layout=compact&langs_count=16&theme=dark&show"/>
 
 ![Snake animation](https://github.com/felipetarran/felipetarran/blob/output/github-contribution-grid-snake.svg)
