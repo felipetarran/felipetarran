@@ -11,7 +11,7 @@
 <h3>Minhas Skills são:</h3>
 <hr>
 <div>
-<h4>Desenvolvimento:</h4>
+<h4>Desenvolvimento</h4>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
