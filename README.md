@@ -8,10 +8,10 @@
 <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img></a>
 </div>
 <br>
-<h3>Minhas Skills são:</h3>
+<h3>My Skills:</h3>
 <hr>
 <div>
-<h4>Desenvolvimento</h4>
+<h4>Development</h4>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,7 +33,9 @@
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
 </div>
+
 
 [![Tarran GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetarran&show_icons=true&theme=chartreuse-dark)
 ](https://github.com/anuraghazra/github-readme-stats)
