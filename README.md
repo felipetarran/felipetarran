@@ -41,9 +41,9 @@
 </div>
 
 
-[![Tarran GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=felipetarran&show_icons=true&theme=chartreuse-dark)
+[![Tarran GitHub stats](https://github-readme-stats-sigma-eight.vercel.app/api?username=felipetarran&show_icons=true&theme=chartreuse-dark)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipetarran&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=felipetarran&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 
 ![Snake animation](https://github.com/felipetarran/felipetarran/blob/output/github-contribution-grid-snake.svg)
